@@ -1,5 +1,3 @@
- (61 sloc)  1.53 KB
-
 #include "monty.h"
 
 int usage_error(void);
